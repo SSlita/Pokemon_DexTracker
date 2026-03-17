@@ -1,16 +1,26 @@
-# living_dex
+# 📱 Pokémon Dex Tracker
 
-A new Flutter project.
+Application Flutter de Pokédex avec système de suivi de capture.
 
-## Getting Started
+## ✨ Fonctionnalités
 
-This project is a starting point for a Flutter application.
+- Navigation par jeux (Cristal seulement pour le moment)
+- Recherche de Pokémon
+- Localisations détaillées avec taux de rencontre
+- Système de capture avec sauvegarde
+- Sprites officiels
 
-A few resources to get you started if this is your first Flutter project:
+## 📦 Installation
+```bash
+git clone https://github.com/VOTRE_USERNAME/pokedex-living-dex.git
+cd pokedex-living-dex
+flutter pub get
+flutter run
+```
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## 🏗️ Stack technique
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- Flutter / Dart
+- SharedPreferences pour la persistance
+- Architecture MVC propre
+
