@@ -12,7 +12,7 @@ Application Flutter de Pokédex avec système de suivi de capture.
 
 ## 📦 Installation
 ```bash
-git clone https://github.com/VOTRE_USERNAME/pokedex-living-dex.git
+git clone https://github.com/SSlita/pokedex-living-dex.git
 cd pokedex-living-dex
 flutter pub get
 flutter run
